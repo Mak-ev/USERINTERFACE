@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("BLACK PUNK")
+            Text("BLACK PUNK!")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .foregroundColor(Color(hue: 0.567, saturation: 0.691, brightness: 0.626))
